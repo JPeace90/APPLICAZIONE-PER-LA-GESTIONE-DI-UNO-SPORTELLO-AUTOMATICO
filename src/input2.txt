@@ -1,0 +1,5 @@
+Spiderman,90,2010,si,Trama di Spiderman
+Superman,91,2000,si,Trama di Superman
+Batman,92,2004,no,Trama di Batman
+Hulk,93,2010,si,Trama di Hulk
+Thor,94,2010,si,Trama di Thor
